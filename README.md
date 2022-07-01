@@ -1,1 +1,1 @@
-# Mujoco_Franka
+# Mujoco_Franka & Shadow hand
