@@ -1,4 +1,4 @@
 #! /bin/sh
 
 make
-./../bin/panda
+./../bin/panda_dt
